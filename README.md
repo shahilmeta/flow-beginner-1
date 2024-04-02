@@ -1,7 +1,3 @@
-Below is a README file format for the Cadence code provided earlier. This format outlines the purpose, structure, and usage of the contract, transaction, and script within a Flow blockchain environment.
-
----
-
 # Cadence Contract for Gaming Inventory
 
 This project contains a Cadence smart contract designed for managing a gaming inventory on the Flow blockchain. It allows users to add games, including console and mobile games, associated with an account. The contract, along with its transaction and script templates, enables adding new games to the inventory and querying them by account address.
